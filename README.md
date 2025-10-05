@@ -21,7 +21,7 @@
 ## :hammer_and_wrench: Tools & Technologies
 <div align="center">
   <!-- Основные иконки -->
-  <img src="https://skillicons.dev/icons?i=java,javascript,python,selenium,postman,git,idea,maven,gradle,jira,mysql,postgres,jenkins,swagger&perline=7" />
+  <img src="https://skillicons.dev/icons?i=java,javascript,py,selenium,postman,github,gitlab,idea,maven,gradle,mysql,jenkins,swagger&perline,sentry,html,css=7" />
   <br/>
   <!-- Кастомные: Cypress и Playwright -->
   <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" 
