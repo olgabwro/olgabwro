@@ -24,7 +24,7 @@
   <img src="https://skillicons.dev/icons?i=java,javascript,python,selenium,postman,git,idea,maven,gradle,jira,mysql,postgres,jenkins,swagger&perline=7" />
   <br/>
   <!-- Кастомные: Cypress и Playwright -->
-  <img src="https://raw.githubusercontent.com/cypress-io/cypress/develop/assets/cypress-logo-dark.svg" 
+  <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" 
        alt="Cypress" width="48" height="48" 
        style="background:#1A1A1A; padding:6px; border-radius:12px;"/>
   <img src="https://playwright.dev/img/playwright-logo.svg" 
