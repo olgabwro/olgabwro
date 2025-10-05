@@ -2,7 +2,7 @@
   :herb: <span style="color:#FFB6B9;">Olga B.</span> — QA Engineer
 </h1>
 <h3 align="center">
-  :computer: Web | :iphone: Mobile | :robot_face: Automation
+  :computer: Web | :iphone: Mobile | Automation
 </h3>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=600&color=49B6A7&center=true&vCenter=true&width=700&lines=Turning+testing+into+an+art;Bridging+quality+and+innovation;Automation+with+style;Quality+is+not+a+goal,+it's+a+habit" alt="Typing SVG" />
@@ -10,7 +10,7 @@
 
 ---
 ## :dizzy: About Me
-- :female-technologist: QA Engineer passionate about **quality, precision, and innovation**  
+- :computer: Engineer passionate about **quality, precision, and innovation**  
 - :jigsaw: Skilled in testing **web** and **mobile** applications  
 - :gear: Hands-on experience with **UI, API, Databases, CI/CD pipelines**  
 - :bulb: Writing robust automation tests with **Java + Selenium/Selenide, JavaScript + Playwright/Cypress**  
